@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-import axios from 'axios'
 import Header from './components/Header.vue';
 
 Vue.config.productionTip = false

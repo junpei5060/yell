@@ -5,18 +5,14 @@
         <p class="introduceService">〜誰かのエールで夢を叶えよう〜</p>
         </h1>
     </div>
-   
 </template>
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 
 div{
-    width: 1200px;
+    width: 1080px;
     margin: 0 auto;
-    background: linear-gradient(-45deg, rgba(247, 230, 247, 0.8), rgba(221, 238, 237, 0.8)),
-    url();
-    background-size: cover;
 }
     
 .ServiceName{
